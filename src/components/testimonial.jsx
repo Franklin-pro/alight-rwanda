@@ -16,7 +16,7 @@ export default function Testmonial(){
     useEffect(()=>{
         const fetchTestimonial = async () =>{
             try {
-                const response = await axios.get('http://localhost:3030/api/v1/testimonial')
+                const response = await axios.get('https://alight-bn.onrender.com/api/v1/testimonial')
                 setIsTestimonial(response.data)
             } catch (error) {
                 

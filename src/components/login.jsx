@@ -27,7 +27,7 @@ export default function Login(){
         e.preventDefault();
     
         try {
-          const apiLogin = "https://alight-bn.onrender.com/api/v1/user/login";
+          const apiLogin = "http://localhost:3030/api/v1/user/login";
           const response = await axios.post(apiLogin, loginData);
     
           const { token } = response.data;
