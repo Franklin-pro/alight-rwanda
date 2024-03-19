@@ -15,7 +15,7 @@ export default function Blogs(){
     useEffect(()=>{
        const fetchData = async () =>{
         try {
-            const response = await axios.get('http://localhost:3030/api/v1/blog')
+            const response = await axios.get('https://alight-bn.onrender.com/api/v1/blog')
             setIsBlog(response.data)
         } catch (error) {
             

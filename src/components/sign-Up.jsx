@@ -36,7 +36,7 @@ export default function SignUp(props) {
       e.preventDefault();
   
       try {
-        const api = "http://localhost:3030/api/v1/user";
+        const api = "https://alight-bn.onrender.com/api/v1/user";
         const response = await axios.post(api, {
           FirstName: data.FirstName,
           LastName: data.LastName,

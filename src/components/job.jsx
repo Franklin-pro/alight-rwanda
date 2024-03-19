@@ -19,7 +19,7 @@ export default function Job(){
   useEffect(()=>{
     const fetchData = async () =>{
       try {
-        const response = await axios.get('http://localhost:3030/api/v1/job')
+        const response = await axios.get('https://alight-bn.onrender.com/api/v1/job')
         setJobData(response.data)
       } catch (error) {
         console.log('error',error)
