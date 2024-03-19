@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after{
+box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+body{
+    background-color: $light-bgcolor-primary;
+
+}
+html{
+    font-size: 62.5%;
+}

@@ -1,0 +1,65 @@
+.read-image{
+    width: 100%;
+    height: 50vh;
+    background-image: linear-gradient(to right,rgba(255, 255, 255, 0.308),rgba(0, 0, 0, 0.24)),url("https://charity.org/wp-content/uploads/2020/01/Day-39-hero_logo.jpg");
+   background-size: cover;
+   background-position: 50% 25%; 
+}
+.reads{
+    padding: 3rem;
+   h2{
+    padding: 1rem 0 2rem;
+    font-size: 3.9rem;
+    @include flex(center,center,0);
+   }
+
+    .read-text{
+        display: flex;
+        flex-direction: column;
+        padding: 2rem 0;
+
+        .iconx{
+            padding-bottom: 1.6rem;
+            display: flex;
+            gap: 3rem;
+            span{
+                font-size: 2rem;
+               @include flex(center,center,.7rem)
+            }
+            .icon{
+                    font-size: 2rem;
+                    color: rgb(88, 86, 86);
+            }
+        }
+        p{
+            font-size: 1.8rem;
+            line-height: 2.8rem;
+        }
+    }
+    .all-comment{
+        @include flex(center,center,0);
+        padding: 2rem;
+        .comment{
+            background-color: rgb(255, 255, 255);
+            padding: 1.8rem;
+            border-radius: 1rem;
+            h3{
+                padding: 1rem 0 .5rem;
+                font-size: 1.8rem;
+            }
+            p{
+                padding:  0.5rem;
+                font-size: 1.5rem;
+            }
+            .comments{
+                display: flex;
+                flex-direction: column;
+            }
+            h2{
+                @include flex(center,center,0);
+                font-size: 1.9rem;
+            }
+          
+        }
+    }
+}

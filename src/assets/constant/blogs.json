@@ -1,0 +1,125 @@
+[
+    {
+      "_id": "65168f4182ac6af88f963803",
+      "newsMainTitle": "      kuboneza urubyaro mu karere ka nyabiheke",
+      "newsTitle": "      Nyabiheke muri gahunda yo gusiramura abana",
+      "newsSummaryDescription": " nyabiheke mur gahunda yo kuboneza urubyaro no kwita kubatwite",
+      "newsDescription": "fudishfr vewiviuweviwe vweihvuweivw9eigvwiev ewihovnuiewhriewhiothriuew ew9oihgfweugweg9oirehg riiorwejhgiorjhetoiwjr gowiejjfoiewjiorwhklhgoi;spq egoiewioghwegnjskht ewgioewhgengioeh rerhgngieorewt rhnjkrh roihgewoigweoij rwoeihiorewhorew riweihnewi ewio; weroignewgtn ewukjgetwhiog ewoiughewuhew ewhgetiowpgew kjhyuiewgweioghiwhgw gwenhg",
+      "newsImage": [
+        "https://borgenproject.org/wp-content/uploads/Refugees_in_Burundi-530x353.jpg"
+      ],
+      "publisher": " Ged Twizerimana",
+      "category": {
+        "_id": "65168d3e12e14458686de9f2",
+        "categoryName": "Ubuzima"
+      },
+      "postedAt": "2023-09-29T08:47:02.089Z",
+      "likes": [],
+      "dislikes": [],
+      "comment": [],
+      "__v": 0
+    },
+    {
+      "_id": "65169ddc47876da8e829eeb3",
+      "newsMainTitle": "Gukingira abana",
+      "newsTitle": "munkambi ya nyabiheke hatagijwe gahunda yo gukingira abana kuv 12/12/2023 kungeza 20.12/2023",
+      "newsSummaryDescription": "munkambi ya nyabiheke hatagijwe gahunda yo gukingira abana kuv 12/12/2023 kungeza 20.12/2023 mwihutire kuza mubwire nabandi",
+      "newsDescription": "fudishfr vewiviuweviwe vweihvuweivw9eigvwiev ewihovnuiewhriewhiothriuew ew9oihgfweugweg9oirehg riiorwejhgiorjhetoiwjr gowiejjfoiewjiorwhklhgoi;spq egoiewioghwegnjskht ewgioewhgengioeh rerhgngieorewt rhnjkrh roihgewoigweoij rwoeihiorewhorew riweihnewi ewio; weroignewgtn ewukjgetwhiog ewoiughewuhew ewhgetiowpgew kjhyuiewgweioghiwhgw gwenhg",
+      "newsImage": [
+        "https://wearealight.org/wp-content/uploads/2020/11/Photo-from-Khamissa-5.jpeg"
+      ],
+      "publisher": " Gedeona Twizerimana",
+      "category": {
+        "_id": "65168d3e12e14458686de9f2",
+        "categoryName": "Ubuzima"
+      },
+      "postedAt": "2023-09-29T09:42:00.567Z",
+      "likes": [],
+      "dislikes": [],
+      "comment": [],
+      "__v": 0
+    },
+
+    {
+      "_id": "6516acd20aca63b696551952",
+      "newsMainTitle": "Umuganda munkambi",
+      "newsTitle": "alight yatagije gahunda yo gukora umuganda munkambi zombi hamwe nimpunzi",
+      "newsSummaryDescription": "alight yatagije gahunda yo gukora umuganda munkambi zombi hamwe nimpunzi",
+      "newsDescription": "fudishfr vewiviuweviwe vweihvuweivw9eigvwiev ewihovnuiewhriewhiothriuew ew9oihgfweugweg9oirehg riiorwejhgiorjhetoiwjr gowiejjfoiewjiorwhklhgoi;spq egoiewioghwegnjskht ewgioewhgengioeh rerhgngieorewt rhnjkrh roihgewoigweoij rwoeihiorewhorew riweihnewi ewio; weroignewgtn ewukjgetwhiog ewoiughewuhew ewhgetiowpgew kjhyuiewgweioghiwhgw gwenhg",
+      "newsImage": [
+        "https://www.newtimes.co.rw/thenewtimes/uploads/images/2023/07/31/25224.jpg"
+      ],
+      "publisher": "Gedeon Twizerimana",
+      "category": {
+        "_id": "651699edfe0babe99f61dfc2",
+        "categoryName": "Politique"
+      },
+      "postedAt": "2023-09-29T10:33:14.975Z",
+      "likes": [],
+      "dislikes": [],
+      "comment": [],
+      "__v": 0
+    },
+    {
+      "_id": "6527f0ddc568a3eed58eabd7",
+      "newsMainTitle": "gahunda yo gusiramura",
+      "newsTitle": "alight health yariri muri gahunda yo gusiramura abana bo munkambi ya mahama",
+      "newsSummaryDescription": "alight health yariri muri gahunda yo gusiramura abana bo munkambi ya mahama",
+      "newsDescription": "fudishfr vewiviuweviwe vweihvuweivw9eigvwiev ewihovnuiewhriewhiothriuew ew9oihgfweugweg9oirehg riiorwejhgiorjhetoiwjr gowiejjfoiewjiorwhklhgoi;spq egoiewioghwegnjskht ewgioewhgengioeh rerhgngieorewt rhnjkrh roihgewoigweoij rwoeihiorewhorew riweihnewi ewio; weroignewgtn ewukjgetwhiog ewoiughewuhew ewhgetiowpgew kjhyuiewgweioghiwhgw gwenhg",
+      "newsImage": [
+     "https://www.kigalitoday.com/IMG/jpg/gusiramura-2.jpg"
+      ],
+      "publisher": "Gedeon Twizerimana",
+      "category": {
+        "_id": "651699edfe0babe99f61dfc2",
+        "categoryName": "Politique"
+      },
+      "postedAt": "2023-10-12T13:12:59.540Z",
+      "likes": [],
+      "dislikes": [],
+      "comment": [],
+      "__v": 0
+    },
+  
+    {
+      "_id": "6527f7d0cdf13cd495c71471",
+      "newsMainTitle": "gahunda yo gupima HIV",
+      "newsTitle": "12",
+      "newsSummaryDescription": "gahunda yo gupima HIV munkambi ya nyabiheke akaba ar gahunda ya alight health",
+      "newsDescription": "12",
+      "newsImage": [
+        "https://wearealight.org/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-05-at-11.59.32-PM.jpeg"
+      ],
+      "publisher": "122",
+      "category": {
+        "_id": "651699edfe0babe99f61dfc2",
+        "categoryName": "Politique"
+      },
+      "postedAt": "2023-10-12T13:42:29.230Z",
+      "likes": [],
+      "dislikes": [],
+      "comment": [],
+      "__v": 0
+    },
+  
+    {
+      "_id": "65280778cdf13cd495c714c7",
+      "newsMainTitle": "nyabiheke coding school and mahama coding school",
+      "newsTitle": "1",
+      "newsSummaryDescription": "alight yafunguye amashuli mashya munkambi 2 ikoreramo rizafasha impunzi kubinjyanye na machine",
+      "newsDescription": "",
+      "newsImage": [
+        "https://wearealight.org/wp-content/uploads/2019/06/codingschool.jpg"
+      ],
+      "publisher": "1",
+      "category": {
+        "_id": "651699edfe0babe99f61dfc2",
+        "categoryName": "Politique"
+      },
+      "postedAt": "2023-10-12T13:42:29.230Z",
+      "likes": [],
+      "dislikes": [],
+      "comment": [],
+      "__v": 0
+    }
+  ]

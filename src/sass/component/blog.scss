@@ -1,0 +1,142 @@
+
+
+.blog-container{
+
+    width: 100%;
+justify-content: center;
+    
+    border-radius: 1.8rem;
+margin-bottom: 2rem;
+padding: 2rem;
+.blog{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    
+  
+    margin-bottom: 2rem;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.123);
+
+    .icons{
+        display: flex;
+        gap: 2rem;
+    }
+}
+    .blog-image{
+        width: 300px;
+    
+        
+        img{
+            width: 100%;
+            object-fit: cover;
+            height: 100%;
+        }
+    }
+    .blog-content{
+        width: 70%;
+
+        flex-direction: column;
+           
+            .icons{
+                font-size: 2rem;
+                display: flex;
+                align-items: right;
+                justify-content: right;
+               
+            }
+            
+       
+    
+       .short{
+        font-size: 1.7rem;
+        padding-bottom: 1rem;
+        margin: auto 2.5rem;
+        flex-wrap: wrap;
+        
+       }
+       .title{
+        font-size: 1.8rem;
+        padding-bottom: 1rem;
+        font-weight: 700;
+        color: rgb(85, 174, 216);
+        margin: auto 2.5rem;
+        
+       }
+       .blog-btn{
+        display: flex;
+       align-items: center;
+    justify-content: center;
+        padding: 3rem;
+       Button{
+        background-color: rgb(41, 158, 226);
+        color: #eee
+       }
+    }
+       padding: 4rem 4rem 0 ;
+    }
+   
+    .blog-btnn{
+        font-size: 1.4rem;
+    }
+}
+.blogs{
+@include flex(center,center,7rem);
+
+flex-direction: column;
+gap: 3rem;
+ 
+   padding: 2rem;
+   
+//    flex-direction:column;
+}
+.blogs-head{
+    @include flex(center,center,1rem);
+    flex-direction: column;
+    padding: 3rem 1rem 0;
+    h1{
+        font-size: 4rem;
+        padding-bottom: 1rem;
+    }
+
+    @media screen and (max-width:908px) {
+        h1{
+            font-size: 3rem;
+            padding-bottom: 1rem;
+        }
+    }
+    @media screen and (max-width:680px) {
+        h1{
+            font-size: 2rem;
+            padding-bottom: 1rem;
+        }
+    }
+    @media screen and (max-width:456px) {
+        h1{
+            font-size: 1.2rem;
+            padding-bottom: 1rem;
+        }
+    }
+    p{
+        font-size: 1.8rem;
+        color:#00000093 ;
+    }
+}
+
+@media screen and (max-width:560px) {
+    .blog{
+    
+        display: flex;
+        flex-direction: column;
+        height: auto;
+       .blog-image{
+        width: 100%;
+       }
+       .blog-content{
+        width: 100%;
+        .short{
+            font-size: 1rem;
+            line-height: 2rem;
+        }
+       }
+       
+    }
+}

@@ -1,0 +1,24 @@
+@import 'abstracts/extend.scss';
+@import 'abstracts/mixin.scss';
+@import 'abstracts/variables.scss';
+
+// ---------base-------------------
+@import 'base/base.scss';
+@import 'base/typography.scss';
+//-----------------component---------
+@import 'component/navbar.scss';
+@import 'component/home.scss';
+@import 'component/about.scss';
+@import 'component/program.scss';
+@import 'component/who.scss';
+@import 'component/footer.scss';
+@import 'component/signup.scss';
+@import 'component/team.scss';
+@import 'component/blog.scss';
+@import 'component/testal.scss';
+@import 'component/login.scss';
+@import 'component/job.scss';
+@import 'component/f-job.scss';
+@import 'component/read.scss';
+@import 'component/dash.scss';
+@import 'component/tables.scss';

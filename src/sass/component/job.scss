@@ -1,0 +1,151 @@
+.get-one-container{
+    background-color: rgb(212, 212, 212);
+   @include flex(center,center,0);
+.get-one{
+    padding: 1rem;
+  
+    h1{
+        padding: 2rem;
+        letter-spacing: .1rem;
+        background-color: rgba(255, 255, 255, 0.534);
+      
+    }
+}
+    .adv-job{
+        background-color: rgb(255, 255, 255);
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.137);
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        li{
+            background-color: rgb(134, 132, 132);
+          padding: .8rem 2rem;
+          width: 100%;
+          font-size: 1.8rem;
+          list-style: none;
+        }
+        @media screen and (max-width:377px) {
+      
+             li{
+                 font-size: 1.2rem
+             }
+           
+          
+         
+         }
+        .job-btn{
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.137);
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+
+        .btn{
+background-color: rgb(0, 102, 255);
+color: white;
+font-size: 1.5rem
+        }
+        }
+
+   
+    }
+    .job-image{
+        width: 100%;
+        height: 100%;
+    }
+    @media screen and (max-width:395px) {
+        .get-one-container{
+            .job-image img{
+                width: 50%;
+                height: 100%;
+            }
+        }
+
+    }
+}
+
+@media screen and (max-width:907px) {
+    .get-one-container{
+        display: flex;
+        flex-direction: column
+    }
+}
+@media screen and (max-width:443px) {
+   .get-one{
+    h1{
+        font-size: 1.2rem
+    }
+  
+   }
+
+}
+
+
+.jobs-all{
+    @include flex(center,center,1rem);
+    flex-direction: column;
+ background-color: rgb(255, 255, 255);
+
+    .jobs-head{
+        @include flex(center,center,1rem);
+    flex-direction: column;
+    padding: 3rem;
+    h1{
+        font-size: 4rem;
+        color: rgba(0, 0, 0, 0.692);
+    }
+    @media screen and (max-width:377px) {
+        h1{
+    font-size: 2.4rem;
+    padding: 1rem;
+       
+        }
+     
+     }
+
+    .apply{
+      
+        // padding: 0 1rem 2rem ;
+      h2{
+        text-align: center;
+        width: 100%;
+        padding: 2rem;
+        font-size: 2.2rem;
+      }
+      h3{
+        font-size: 2rem;
+        padding: 2rem;
+        color: #8a8888;
+      }
+      @media screen and (max-width:277px) {
+        h3{
+    
+    padding: 0;
+       
+        }
+     
+     }
+      li{
+        font-size: 1.9rem;
+        line-height: 3rem;
+        margin: auto 25px;
+      span{
+        font-weight: 800;
+        color: rgba(255, 81, 0, 0.781);
+      }
+        // padding: 1rem 3rem;
+      }
+    }
+    }
+    @media screen and (max-width:377px) {
+        .jobs-head{
+    
+    padding: 0;
+       
+        }
+     
+     }
+}

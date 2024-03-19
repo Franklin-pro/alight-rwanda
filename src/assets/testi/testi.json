@@ -1,0 +1,69 @@
+[
+    {
+      "_id": "65168f4182ac6af88f963803",
+      "newsSummaryDescription": " nyabiheke mur gahunda yo kuboneza urubyaro no kwita kubatwite",
+      "newsImage": [
+        "https://borgenproject.org/wp-content/uploads/Refugees_in_Burundi-530x353.jpg"
+      ],
+      "publisher": " Ged Twizerimana",
+ 
+     "position":"Assistant Manager"
+   
+    },
+    {
+      "_id": "65169ddc47876da8e829eeb3",
+      "newsSummaryDescription": "munkambi ya nyabiheke hatagijwe gahunda yo gukingira abana kuv 12/12/2023 kungeza 20.12/2023 mwihutire kuza mubwire nabandi",
+      "newsImage": [
+        "https://wearealight.org/wp-content/uploads/2020/11/Photo-from-Khamissa-5.jpeg"
+      ],
+      "publisher": " Gedeona Twizerimana",
+
+      "position" : "CEO"
+  
+    },
+
+    {
+      "_id": "6516acd20aca63b696551952",
+      "newsSummaryDescription": "alight yatagije gahunda yo gukora umuganda munkambi zombi hamwe nimpunzi",
+      
+      "newsImage": [
+        "https://www.newtimes.co.rw/thenewtimes/uploads/images/2023/07/31/25224.jpg"
+      ],
+      "publisher": "Gedeon Twizerimana",
+      "position" : "Secretary"
+      
+    },
+    {
+      "_id": "6527f0ddc568a3eed58eabd7",
+      "newsSummaryDescription": "alight health yariri muri gahunda yo gusiramura abana bo munkambi ya mahama",
+    "newsImage":[
+     "https://www.kigalitoday.com/IMG/jpg/gusiramura-2.jpg"
+      ],
+      "publisher": "Deo King",
+      "position" : "IT Controller"
+     
+    },
+  
+    {
+      "_id": "6527f7d0cdf13cd495c71471",
+      "newsSummaryDescription": "gahunda yo gupima HIV munkambi ya nyabiheke akaba ar gahunda ya alight health",
+      "newsImage": [
+        "https://wearealight.org/wp-content/uploads/2020/12/WhatsApp-Image-2020-12-05-at-11.59.32-PM.jpeg"
+      ],
+      "publisher": "Franklin",
+      "position" : "Sinior Manager"
+      
+    },
+  
+    {
+      "_id": "65280778cdf13cd495c714c7",
+      "newsSummaryDescription": "alight yafunguye amashuli mashya munkambi 2 ikoreramo rizafasha impunzi kubinjyanye na machine",
+      "newsImage": [
+        "https://wearealight.org/wp-content/uploads/2019/06/codingschool.jpg"
+      ],
+      "publisher": "john ken",
+    
+      "position" : "Accountant"
+      
+    }
+  ]
