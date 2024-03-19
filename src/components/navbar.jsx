@@ -57,14 +57,14 @@ const handleClose = () =>{
                         <a href="/" className="link">We are Alight</a>
                         <ul className="dropdown">
                         <li><a href="./about" className="link drops">ABout Us</a></li>
-                        <li><a href="/" className="link drops">Join Us</a></li>
-                        <li><a href="/" className="link drops">Testimonial</a></li>
+                        <li><a href="./join" className="link drops">Join Us</a></li>
+                        <li><a href="./testimonial" className="link drops">Testimonial</a></li>
                         <li><a href="./team" className="link drops">Our Term</a></li>
                         </ul>
                         </li>
                         <li><a href="/" className="link">Donate</a></li>
-                        <li><a href="/" className="link">Blogs</a></li>
-                        <li><a href="/" className="link">Jobs</a></li>
+                        <li><a href="./blog" className="link">Blogs</a></li>
+                        <li><a href="./job" className="link">Jobs</a></li>
                         
                        <Button onClick={handleOpen} className="btn" endIcon={<VpnKeyIcon/>}>Sign-In</Button>
      
